@@ -1,6 +1,3 @@
-import sys
-import math
-
 # The while loop represents the game.
 # Each iteration represents a turn of the game
 # where you are given inputs (the heights of the mountains)
